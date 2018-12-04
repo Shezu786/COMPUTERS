@@ -33,7 +33,7 @@ if(isset($_POST['Submit'])){
 		exit;
 	} 
 	else {
-		$msg="<span style='color:red'>Invalid Login Details</span>";
+		$msg=Invalid Login Details;
 	}
 }
 ?>
@@ -42,3 +42,6 @@ if(isset($_POST['Submit'])){
 /* Here we are going to make some changes in Login.php file */
 /* Here we are going to add marquee for login using marquee tag
 	<marque> Login Here </marque> */
+
+/* Here Another Developer is given code of Login.php to review
+and perform some changes and find bugs */
