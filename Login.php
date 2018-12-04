@@ -40,3 +40,5 @@ if(isset($_POST['Submit'])){
 </body>
 </html>
 /* Here we are going to make some changes in Login.php file */
+/* Here we are going to add marquee for login using marquee tag
+	<marque> Login Here </marque> */
