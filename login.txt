@@ -1,0 +1,6 @@
+Description of Login Functionality of the project
+------------------------------------------------
+
+Here we have use the static login in our project
+without using database we have perform login functionality
+by default username and password given to the user to login in the system
